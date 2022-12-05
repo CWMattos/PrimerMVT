@@ -1,0 +1,65 @@
+*{
+    margin: 0px important;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo h1{
+    color:#292F36;
+    margin-top: 20px;
+    background-color: 292F36;
+}
+
+.contactos1 {
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: pink;
+}
+
+.contactos1 h2{
+    margin-top: 0px;
+}
+
+.contactos1:hover{
+    background-color: aquamarine;
+}
+
+.contactos2 {
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: aqua;
+}
+
+.contactos2 h2{
+    margin-top: 0px;
+}
+
+.contactos2:hover{
+    background-color: aquamarine;
+}
+
+.contactos3 {
+    width: 400px;
+    height: 100px;
+    margin: 10px;
+    padding: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+    background-color: aquamarine;
+}
+
+.contactos3 h2{
+    margin-top: 0px;
+}
+
+.contactos3:hover{
+    background-color: aqua;
+}
